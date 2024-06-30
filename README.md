@@ -17,12 +17,12 @@ This implementation uses the Llama Index for retrieval, paired with a generative
 ## Usage
 
 1. **OpenAI GPT-based RAG**:
-   - Open the `openai_rag.ipynb` notebook.
+   - Open the `RAG_OpenAI.ipynb` notebook.
    - Follow the instructions to set up the environment and run the cells.
    - The notebook includes steps to load the knowledge base, perform retrieval, and generate answers using the OpenAI GPT model.
 
 2. **Llama Index-based RAG**:
-   - Open the `llama_index_rag.ipynb` notebook.
+   - Open the `RAG_Llama2_with_llamaindex.ipynb` notebook.
    - Follow the instructions to set up the environment and run the cells.
    - The notebook includes steps to load the knowledge base, perform retrieval using Llama Index, and generate answers with the generative model.
 
